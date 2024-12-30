@@ -224,10 +224,10 @@ _CODE Output, Recreated the table. Link provided above._
 -	Loyalty Members: Only consider purchases from members who are part of the loyalty program.
 -	Aggregation: Group by product to calculate its ranking based on purchase frequency.
 
+# About Me!
+Follow me on [Medium](https://medium.com/@r-rahulsingh). I’ve also shared some interesting stuff on Image Segmentation, Neural Networks, case studies and many. Check it out! 
 
-
-
-
+Feel free to reach out to me on [Linked](https://www.linkedin.com/in/r-rahulsingh/) for any collaboration, work or simply talk over a virtual coffee. ☕️
 
 
 
