@@ -227,7 +227,7 @@ _CODE Output, Recreated the table. Link provided above._
 # About Me!
 Follow me on [Medium](https://medium.com/@r-rahulsingh). I’ve also shared some interesting stuff on Image Segmentation, Neural Networks, case studies and many. Check it out! 
 
-Feel free to reach out to me on [Linked](https://www.linkedin.com/in/r-rahulsingh/) for any collaboration, work or simply talk over a virtual coffee. ☕️
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/r-rahulsingh/) for any collaboration, work or simply talk over a virtual coffee. ☕️
 
 
 
